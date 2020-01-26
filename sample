@@ -3,5 +3,6 @@
 int main(void) {
   int a;
   printf("/"enter values"/n");
+scanf("%[/n]*c,&a);
   return 0;
 }
